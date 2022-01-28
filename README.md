@@ -11,3 +11,9 @@
 - 以下がその画像になります
 
 ![image](https://user-images.githubusercontent.com/1501327/151489132-d7f3617c-13c8-4f8b-865a-fc95f0809403.png)
+
+<br><br>
+
+- ▼ **スプレッドシート上のコピーはクリップボードの履歴( WIN + V ) で空*
+
+![image](https://user-images.githubusercontent.com/1501327/151489863-b33f383f-ce8c-410c-b76c-274dd428d1cb.png)
