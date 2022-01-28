@@ -7,3 +7,7 @@
 - 対象の画像は、Google の URL で参照可能なのでコピーして Chrome のアドレスバーに貼り付けて表示してコピーします
 
 ![image](https://user-images.githubusercontent.com/1501327/151489056-e1f047cb-42aa-4826-b50a-d3f63cdbf9fe.png)
+
+- 以下がその画像になります
+
+![image](https://user-images.githubusercontent.com/1501327/151489132-d7f3617c-13c8-4f8b-865a-fc95f0809403.png)
