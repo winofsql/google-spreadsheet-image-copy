@@ -1,1 +1,1 @@
-# google-spreadsheet-image-copy
+# Google スプレッドシートの図形描画の加増データをクリップボードにコピーする
