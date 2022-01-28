@@ -16,4 +16,4 @@
 
 - ▼ **スプレッドシート上のコピーはクリップボードの履歴( WIN + V ) で空**
 
-![image](https://user-images.githubusercontent.com/1501327/151489863-b33f383f-ce8c-410c-b76c-274dd428d1cb.png)
+![image](https://user-images.githubusercontent.com/1501327/151490107-417beb0b-975d-45f2-87cc-c10a4501b3cc.png)
