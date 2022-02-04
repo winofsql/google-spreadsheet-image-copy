@@ -17,3 +17,7 @@
 - ▼ **スプレッドシート上のコピーはクリップボードの履歴( WIN + V ) で空**
 
 ![image](https://user-images.githubusercontent.com/1501327/151490107-417beb0b-975d-45f2-87cc-c10a4501b3cc.png)
+
+<br><br>
+
+[GitHub Page](https://winofsql.github.io/google-spreadsheet-image-copy/)
